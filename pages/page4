@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Whiskers Cafe - Cat Care &amp; Rules</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
 
+	<div class="navbar">
+		<h1>Whiskers Cafe</h1>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="cats.html">Our Cats</a></li>
+			<li><a href="gallery.html">Gallery</a></li>
+			<li><a href="menu.html">Menu</a></li>
+			<li><a href="booking.html">Book a Visit</a></li>
+			<li><a href="care.html">Cat Care</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</div>
+
+	<div class="banner">
+		<h2>Cat Care &amp; House Rules</h2>
+		<p>Please have a read of this before you visit, it helps keep the cats happy and healthy.</p>
+	</div>
+
+	<div class="section">
+		<h2>Before You Visit</h2>
+		<ul>
+			<li>Please arrive on time, sessions are kept short so the cats can rest between visits.</li>
+			<li>Tell us about any cat allergies when you book.</li>
+			<li>Children under 12 must be with an adult.</li>
+			<li>Please don't bring outside food or drink for the cats, it can make them ill.</li>
+		</ul>
+
+		<h2>While You're Here</h2>
+		<ul>
+			<li>Let the cat come to you, don't chase or corner them.</li>
+			<li>Some cats don't like being picked up, check with staff first.</li>
+			<li>Please don't wake a sleeping cat.</li>
+			<li>Use the hand sanitiser before and after stroking the cats.</li>
+			<li>No flash photography please.</li>
+		</ul>
+	</div>
+
+	<div class="section">
+		<h2>How We Look After the Cats</h2>
+		<div class="box-row">
+			<div class="box">
+				<h3>Health Checks</h3>
+				<p>All our cats are vaccinated, microchipped and neutered. A vet visits once a month.</p>
+			</div>
+			<div class="box blue">
+				<h3>Rest Time</h3>
+				<p>We close for an hour at lunch and all day Monday so the cats get a proper break.</p>
+			</div>
+			<div class="box">
+				<h3>Safe Spaces</h3>
+				<p>Every cat has a shelf or hideaway they can go to if they've had enough attention.</p>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		Whiskers Cafe, 14 Bridgewater Row, Manchester &nbsp;|&nbsp; hello@whiskerscafe.co.uk
+	</footer>
+
+</body>
+</html>
