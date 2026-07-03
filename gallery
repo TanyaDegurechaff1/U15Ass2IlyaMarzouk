@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Whiskers Cafe - Gallery</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+	<div class="navbar">
+		<h1>Whiskers Cafe</h1>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="cats.html">Our Cats</a></li>
+			<li><a href="gallery.html">Gallery</a></li>
+			<li><a href="menu.html">Menu</a></li>
+			<li><a href="booking.html">Book a Visit</a></li>
+			<li><a href="care.html">Cat Care</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</div>
+
+	<div class="banner">
+		<h2>Gallery</h2>
+		<p>A few pictures from around the cafe (these are stand-in photos - swap them for our own photos before the site goes live).</p>
+	</div>
+
+	<div class="section">
+		<div class="box-row">
+			<div class="box" style="text-align:center;">
+				<img class="gallery-photo" src="https://placekitten.com/400/300?image=1" alt="Biscuit relaxing on the window seat">
+				<p>Biscuit relaxing on the window seat</p>
+			</div>
+			<div class="box blue" style="text-align:center;">
+				<img class="gallery-photo" src="https://placekitten.com/400/300?image=2" alt="One of our cats by the coffee corner">
+				<p>Our coffee corner</p>
+			</div>
+			<div class="box" style="text-align:center;">
+				<img class="gallery-photo" src="https://placekitten.com/400/300?image=3" alt="Nimbus exploring the cat tower">
+				<p>Nimbus exploring the cat tower</p>
+			</div>
+			<div class="box blue" style="text-align:center;">
+				<img class="gallery-photo" src="https://placekitten.com/400/300?image=4" alt="Cake of the day on the counter">
+				<p>Cake of the day</p>
+			</div>
+			<div class="box" style="text-align:center;">
+				<img class="gallery-photo" src="https://placekitten.com/400/300?image=5" alt="Suki having a nap">
+				<p>Suki having a nap</p>
+			</div>
+			<div class="box blue" style="text-align:center;">
+				<img class="gallery-photo" src="https://placekitten.com/400/300?image=6" alt="Inside the cafe seating area">
+				<p>Inside the cafe</p>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		Whiskers Cafe, 14 Bridgewater Row, Manchester &nbsp;|&nbsp; hello@whiskerscafe.co.uk
+	</footer>
+
+</body>
+</html>
